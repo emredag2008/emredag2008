@@ -1,6 +1,6 @@
 ### Hi there 👋
 
+##Dealing with:
 
-**emredag2008/emredag2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 
-Here are some ideas to get you started:
